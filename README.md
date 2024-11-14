@@ -5,11 +5,11 @@
 ## Team Analytics Grads
 Based in Dublin, Ireland.
 
--Eddy Chan - Associate Data Engineer
--Sean O’Neill - Data Engineer Graduate
--Kim Thai - Data Engineer Graduate
--Jamie Carney - Data Engineer Graduate
--Saurabh Yeramwar - Data Engineer
+- Eddy Chan - Associate Data Engineer
+- Sean O’Neill - Data Engineer Graduate
+- Kim Thai - Data Engineer Graduate
+- Jamie Carney - Data Engineer Graduate
+- Saurabh Yeramwar - Data Engineer
 
 
 ## Problem Statement
