@@ -24,6 +24,6 @@ To run our model first our notebooks should be uploaded into the ML_Hackathon fo
 ## Notebooks
 - The working model is in "Models/FinalModel-Decision Trees" folder in a notebook called "working_best_model.ipynb"
 - There are multiple test notebooks:
-      - "Models/KNN" there is a notebook testing a K-nearest neighbour model
-      - "Models/NeuralNetwork" there is a notebook testing a knn model, a neural network model and a decision tree model
-      - "Models/RandomForest" there is a notebook testing a random forest model
+  - "Models/KNN" there is a notebook testing a K-nearest neighbour model
+  - "Models/NeuralNetwork" there is a notebook testing a knn model, a neural network model and a decision tree model
+  - "Models/RandomForest" there is a notebook testing a random forest model
