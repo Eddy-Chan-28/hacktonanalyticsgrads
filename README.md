@@ -19,6 +19,8 @@ Behavior Classification: Develop a model to classify a subset of annotated behav
 Ensure matplotlib and scikit-learn are installed using: pip install
 
 ## Running
-To run our model first our notebooks should be uploaded into the ML_Hackathon folder
+To run our model first our notebooks should be uploaded into the ML_Hackathon folder and then the notebooks below can be ran.
 
 ## Notebooks
+- The working model:
+- Testing models:
