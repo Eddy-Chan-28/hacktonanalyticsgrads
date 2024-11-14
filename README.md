@@ -16,7 +16,8 @@ Based in Dublin, Ireland.
 Behavior Classification: Develop a model to classify a subset of annotated behaviors from accelerometer data. This task involves creating a sophisticated algorithm to accurately identify different behaviors based on data patterns.
 
 ## Installation
-Ensure matplotlib and scikit-learn are installed using: pip install
+Ensure matplotlib and scikit-learn are installed using: 
+pip install matplotlib cikit-learn
 
 ## Running
 To run our model first our notebooks should be uploaded into the ML_Hackathon folder and then the notebooks below can be ran.
